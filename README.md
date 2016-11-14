@@ -5,17 +5,15 @@ A proof of concept - connecting `Ruby` with `Elixir` via RabbitMQ
 ## Prerequisites
 
 1. Make sure you have [Ruby installed](https://www.ruby-lang.org/en/documentation/installation/)
-2. Make sure you have [Elixir installed
-](http://elixir-lang.org/install.html)
-2. Make sure you have [RabbitMQ installed
-](https://www.rabbitmq.com/download.html)
+2. Make sure you have [Elixir installed](http://elixir-lang.org/install.html)
+2. Make sure you have [RabbitMQ installed](https://www.rabbitmq.com/download.html)
 
 ## Setup
 
 You need to run `RabbutMQ` server. To do that execute:
 
 	rabbitmq-server
-	
+
 Now, it's available on your localhost and is waiting to accept any connection.
 
 ## Dependencies
